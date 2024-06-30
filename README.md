@@ -1,4 +1,3 @@
-
 ### This is a LOCAL change :)
 # recipe
 line 2 changed remotely
@@ -7,4 +6,4 @@ line 2 changed remotely
 ## ingredients.md
 - Ingredients for the best pizza dough.
 last line changed locally
-### This is a LOCAL change :)
+### This is a REMOTE change :O
