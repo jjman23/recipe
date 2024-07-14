@@ -14,3 +14,5 @@ line 2 changed remotely
 * salt
 * yeast
 * sugar
+
+![Pizza Crust!](recipe.jpeg "Pizza Crust")
