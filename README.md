@@ -7,3 +7,10 @@ line 2 changed remotely
 - Ingredients for the best pizza dough.
 last line changed locally
 ### This is a REMOTE change :O
+
+### basic ingredients
+* flour
+* water
+* salt
+* yeast
+* sugar
